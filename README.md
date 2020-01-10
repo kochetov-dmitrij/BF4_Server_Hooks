@@ -6,8 +6,7 @@ Changes 1250 HP of each pillar to 10^21 HP by direcly substituting values in mem
 * Attack helis don't spawn until a certain amount of players on the server *
 * Autokill for using enemy attack heli *
 
-(*) means that this feature relies on someone elses code which I don't want to publish\
-These features are in `more` branch and won't work without additional code
+(*) means that the feature relies on someone elses code which I don't want to publish\
 The full toolset was used on TDS servers (2017-2019 RIP)
 
 ### Requrements:
